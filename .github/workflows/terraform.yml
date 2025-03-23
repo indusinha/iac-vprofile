@@ -10,7 +10,8 @@ on:
     branches:
       - main
     paths:
-      - terraform/**
+      - terraform/** 
+      
 
 env:
  # Credentials for deployment to AWS
